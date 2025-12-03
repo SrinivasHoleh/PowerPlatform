@@ -1,0 +1,22 @@
+
+   {
+   "Patient ID" : 102,
+   "Tags" : 
+      [
+         "Blood"
+      ],
+   "Date" : "03/15/2025",
+   "Results" :
+      [
+         {
+            "Type" : "HbA1C",
+            "Score" : 60,
+            "Comments" : "Risk"
+         },
+         {
+            "Type" : "HDL",
+            "Score" : 2.4,
+            "Comments" : "Excellent"
+         }
+      ]
+   }
